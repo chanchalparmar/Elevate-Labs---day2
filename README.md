@@ -1,4 +1,3 @@
-# Elevate-Labs -day2
 # Elevate Labs Internship Task 2 – Power BI Dashboard Task
 
 This repository contains the Power BI project completed as part of my internship task at **Elevate Labs**. The goal of this task was to create a compelling and insightful dashboard using the provided dataset.
